@@ -5,5 +5,6 @@ function factorial(num) {
   }
   return product
 }
-console.log(factorial(3))
+// console.log(factorial(3))
 
+module.exports = factorial;
